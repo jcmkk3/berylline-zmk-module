@@ -3,7 +3,7 @@ id: corne
 name: Corne
 type: shield
 url: https://github.com/foostan/crkbd/
-requires: [xiao]
+requires: [promicro]
 siblings:
   - berylline_left
   - berylline_right
