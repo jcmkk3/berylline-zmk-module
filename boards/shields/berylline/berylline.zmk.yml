@@ -1,9 +1,12 @@
 file_format: "1"
-id: corne
-name: Corne
+id: berylline
+name: Berylline
 type: shield
-url: https://github.com/foostan/crkbd/
-requires: [promicro]
+url: https://github.com/jcmkk3/trochilidae
+requires:
+  - promicro
+features:
+  - keys
 siblings:
   - berylline_left
   - berylline_right
